@@ -1,6 +1,6 @@
-# To jest nagłówek H1
+# H1 Header
 
-## To jest nagłówek H2
+## H2 Header
 
-###### To jest nagłówek H6
+###### H6 Header
 
